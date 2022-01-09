@@ -118,7 +118,7 @@ content:
       - layout: top-middle
         title: Auto-calibration of multi-sensors
         link: http://humbl.bme.ubc.ca/
-        link_text: Human Motion Biomechanics Lab #, The University of British Columbia
+        link_text: Human Motion Biomechanics Lab, The University of British Columbia
         #quote: >
         #  Human Motion Biomechanics Lab
         description: | # this will include new lines to allow paragraphs
@@ -130,7 +130,7 @@ content:
       - layout: top-middle
         title: Weight Bank Addition Photonic Accelerator in Neuromorphic Networks	
         link: https://mina.ubc.ca/
-        link_text: Microsystems and Nanotechnology (MiNa) Lab #, The University of British Columbia 
+        link_text: Microsystems and Nanotechnology (MiNa) Lab, The University of British Columbia 
         #quote: >
         #  Human Motion Biomechanics Lab
         description: | # this will include new lines to allow paragraphs
@@ -140,7 +140,7 @@ content:
       - layout: top-middle
         title: Extended FSR Micro-Ring Modulator	
         link: https://mina.ubc.ca/
-        link_text: Microsystems and Nanotechnology (MiNa) Lab #, The University of British Columbia 
+        link_text: Microsystems and Nanotechnology (MiNa) Lab, The University of British Columbia 
         #quote: >
         #  Human Motion Biomechanics Lab
         description: | # this will include new lines to allow paragraphs
@@ -154,6 +154,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           This project works on designing a Self-Packaged dual bandpass filter with improved suppression for 5G sub-6 GHz applications based on the 
           Substrate Integrated Suspended Line (SISL) technology.               
+          
+  - title: Publication # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Texavie Technologies, Inc.
+        #link: https://texavie.com/
+        # link_text: boringcompany.com
+        #sub_title: R&D Intern, Hardware/Firmware and Data Processing
+        #caption: December 2022 - Present
+        #quote: >
+        #  Texavie works on intelligent apparel for digital health and wellness
+        description: | # this will include new lines to allow paragraphs
+            [W. Zhang, K. Ma, H. Zhang and H. Fu, "Design of a Compact SISL BPF With SEMCP for 5G Sub-6 GHz Bands," in IEEE Microwave and Wireless Components Letters, vol. 30, 
+            no. 12, pp. 1121-1124, Dec. 2020, doi: 10.1109/LMWC.2020.3030189.](https://ieeexplore.ieee.org/document/9240088)          
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -182,19 +197,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at UBC I spend a great time learning and working. I learn most of my crucial skills that will be useful in future life such as teamwork and working to tight deadlines. 
           I thoroughly  enjoy every second in UBC and learned how important it is to lead a healthy work life balance.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in neuron network and wearable devices, some of my other interests and hobbies are:
-      - Badmiton
-      - Basketball
-      - Gaming
-      - Playing with cats, dogs, ect. 
-     # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
