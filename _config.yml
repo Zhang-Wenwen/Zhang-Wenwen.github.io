@@ -48,12 +48,13 @@ linkedin_username: wenw-zhang
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Wenwen Zhang, I'm a master student at the University of British Columbia, Canada. 
+  Hi, my name is Wenwen Zhang, I'm a MASc student at the University of British Columbia, Canada. 
   I am now working as a research assistant in Flexible Electronics and Energy Lab (FEEL).
   My research focuses on wearable devices and federated learning method considering large proportion of no-label data with huge data heterogeneity at different device end.
   I am very optimistic about the future of wearable devices. I believe the interdisciplinary field which connects the popular machine learning and end devices will be promising. 
   I have worked with a range of different languages (python, MATLAB, C, C++), tried different fields in Electrical Engineering field (microwave components, image process, machie learning), 
   and I am always looking forward to opportunities to work with something new.
+  
 
 content:
   - title: Projects # Title for the section
@@ -81,7 +82,7 @@ content:
           this kind of flexible sensors free people from lab environment with more comprehensive feedback on healthy detection and achieve significant cost savings.
 
       - layout: top-middle
-        title:Wearable Sensor System for Gait Disorder Patients	
+        title: Wearable Sensor System for Gait Disorder Patients	
         link: http://humbl.bme.ubc.ca/
         quote: >
           Human Motion Biomechanics Lab & Flexible Electronics and Energy Lab
@@ -89,6 +90,15 @@ content:
           This project develops real-time algorithms to predict gait parameters of patients with disorders (Parkinson, stroke & geriatric). People with impairment of injury or 
           senior age often suffer from gait disorders which may cause falls or other serious consequences during walk. To control such risks, gait parameters should be to utilized
           and tracked in daily activities to assess the severity of disease. 
+                    
+      - layout: top-middle
+        title: Intelligent Glove with Embedded Wearable Sensors	
+        link: https://feel.ece.ubc.ca/
+        quote: >
+          Texavie Technologies, Inc. & Flexible Electronics and Energy Lab
+        description: | # this will include new lines to allow paragraphs
+          This project aims to reconstruct hand gesture of post-stroke patients to assess upper extremity function and help motivate recovery progress. It also has the promise
+          to be developed as real-time model for VR & AR game in the future.
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
