@@ -170,21 +170,6 @@ content:
             I participated in hardware/firmware programming & testing and data processing in Texavie, mostly working with C/C++/python/MATLAB code here. Texavie cooperates with
             Flexible Electronics and Energy Lab as well. It's an amazing company where Industry-University-Academy cooperation teaching mode combines perfectly. 
          
-  - title: Publication # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Texavie Technologies, Inc.
-        #link: https://texavie.com/
-        # link_text: boringcompany.com
-        #sub_title: R&D Intern, Hardware/Firmware and Data Processing
-        #caption: December 2022 - Present
-        #quote: >
-        #  Texavie works on intelligent apparel for digital health and wellness
-        description: | # this will include new lines to allow paragraphs
-            [W. Zhang, K. Ma, H. Zhang and H. Fu, "Design of a Compact SISL BPF With SEMCP for 5G Sub-6 GHz Bands," in IEEE Microwave and Wireless Components Letters, vol. 30, 
-            no. 12, pp. 1121-1124, Dec. 2020, doi: 10.1109/LMWC.2020.3030189.](https://ieeexplore.ieee.org/document/9240088)
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
