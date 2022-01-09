@@ -61,7 +61,7 @@ content:
   - title: Publication # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left-align #top-middle
         #title: Texavie Technologies, Inc.
         description: | # this will include new lines to allow paragraphs
             W. Zhang, K. Ma, H. Zhang and H. Fu, "Design of a Compact SISL BPF With SEMCP for 5G Sub-6 GHz Bands," in IEEE Microwave and Wireless Components Letters, vol. 30, 
@@ -73,10 +73,10 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: top-middle
         title: Personalized Semi-supervised Federated Learning for Embedded Intelligence
         link: https://feel.ece.ubc.ca/
-        link_text: lexible Electronics and Energy Lab in Electronic and Computer Engineering Department
+        link_text: flexible Electronics and Energy Lab in Electronic and Computer Engineering Department
         #quote: >
         #  "[Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)" in Electronic and Computer Engineering Department
         description: | # this will include new lines to allow paragraphs
@@ -101,9 +101,10 @@ content:
 
       - layout: top-middle
         title: Wearable Sensor System for Gait Disorder Patients	
-        #link: http://humbl.bme.ubc.ca/
-        quote: >
-          [Human Motion Biomechanics Lab](http://humbl.bme.ubc.ca/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
+        link: http://humbl.bme.ubc.ca/
+        link_text: Human Motion Biomechanics Lab & Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/
+        #quote: >
+        #  [Human Motion Biomechanics Lab](http://humbl.bme.ubc.ca/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
           This project develops real-time algorithms to predict gait parameters of patients with disorders (Parkinson, stroke & geriatric). People with impairment of injury or 
           senior age often suffer from gait disorders which may cause falls or other serious consequences during walk. To control such risks, gait parameters should be to utilized
