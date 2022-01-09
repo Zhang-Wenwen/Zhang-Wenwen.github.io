@@ -65,7 +65,7 @@ content:
         title: Personalized Semi-supervised Federated Learning for Embedded Intelligence
         #link: https://feel.ece.ubc.ca/
         #quote: >
-          "[Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/) in Electronic and Computer Engineering Department"
+          [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/) in Electronic and Computer Engineering Department
         description: | # this will include new lines to allow paragraphs
           This project explores federated learning method considering large proportion of non-labeled data with significant data heterogeneity at different device end. 
           With the development of wearable sensors, people are able to collect enormous data volume from huge number of individuals. These data always come with huge
