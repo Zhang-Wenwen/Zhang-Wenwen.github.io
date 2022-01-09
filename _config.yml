@@ -77,9 +77,8 @@ content:
         link: https://texavie.com/
         link_text: Texavie Technologies, Inc.
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            link: https://feel.ece.ubc.ca/
-            link_text: Flexible Electronics and Energy Lab     
+          - title:  Flexible Electronics and Energy Lab    
+            url: https://feel.ece.ubc.ca/
         #quote: >
         #  [Texavie Technologies, Inc.](https://texavie.com/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
