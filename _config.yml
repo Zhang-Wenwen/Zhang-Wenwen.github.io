@@ -58,14 +58,27 @@ about_content: | # this will include new lines to allow paragraphs
   If you are interested, please download [my Resumé](https://www.google.com/) here.
 
 content:
-  - title: Projects # Title for the section
+  - title: Publication # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        #title: Texavie Technologies, Inc.
+        description: | # this will include new lines to allow paragraphs
+            W. Zhang, K. Ma, H. Zhang and H. Fu, "Design of a Compact SISL BPF With SEMCP for 5G Sub-6 GHz Bands," in IEEE Microwave and Wireless Components Letters, vol. 30, 
+            no. 12, pp. 1121-1124, Dec. 2020, [doi: 10.1109/LMWC.2020.3030189.](https://ieeexplore.ieee.org/document/9240088)          
+            
+            A. Tashakori, W Zhang, Z. Wang, and P Servati, "SemiPFL: Personalized Semi-Supervised Federated Learning Framework for Embedded Intelligence," 
+            submitted to IEEE Internet of Things Journal. 
+            
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-left
         title: Personalized Semi-supervised Federated Learning for Embedded Intelligence
-        #link: https://feel.ece.ubc.ca/
-        quote: >
-          "[Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)" in Electronic and Computer Engineering Department
+        link: https://feel.ece.ubc.ca/
+        link_text: lexible Electronics and Energy Lab in Electronic and Computer Engineering Department
+        #quote: >
+        #  "[Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)" in Electronic and Computer Engineering Department
         description: | # this will include new lines to allow paragraphs
           This project explores federated learning method considering large proportion of non-labeled data with significant data heterogeneity at different device end. 
           With the development of wearable sensors, people are able to collect enormous data volume from huge number of individuals. These data always come with huge
@@ -98,18 +111,20 @@ content:
                     
       - layout: top-middle
         title: Intelligent Glove with Embedded Wearable Sensors	
-        #link: https://feel.ece.ubc.ca/
-        quote: >
-          [Texavie Technologies, Inc.](https://texavie.com/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
+        link: https://feel.ece.ubc.ca/
+        link_text: Texavie Technologies, Inc. & Flexible Electronics and Energy Lab
+        #quote: >
+        #  [Texavie Technologies, Inc.](https://texavie.com/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
           This project aims to reconstruct hand gesture of post-stroke patients to assess upper extremity function and help motivate recovery progress. It also has the promise
           to be developed as real-time model for VR & AR game in the future.
           
       - layout: top-middle
         title: Real-World Biomechanical Measurements of Impacts in Humans
-        #link: https://feel.ece.ubc.ca/
-        quote: >
-          [Human Motion Biomechanics Lab](http://humbl.bme.ubc.ca/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
+        link: http://humbl.bme.ubc.ca/
+        link_text: Human Motion Biomechanics Lab & Flexible Electronics and Energy Lab
+        #quote: >
+        #  [Human Motion Biomechanics Lab](http://humbl.bme.ubc.ca/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
           Quantifying measurement errors in wearable inertial measurement unit devices caused by soft tissue movement artifacts is important in all data collection process.
           Soft tissue movement artifacts always bring drift when measuring data from wearable sensors. And the drifts are the most frequent reason responsible for effectiveness
@@ -155,14 +170,6 @@ content:
           This project works on designing a Self-Packaged dual bandpass filter with improved suppression for 5G sub-6 GHz applications based on the 
           Substrate Integrated Suspended Line (SISL) technology.               
           
-  - title: Publication # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        #title: Texavie Technologies, Inc.
-        description: | # this will include new lines to allow paragraphs
-            W. Zhang, K. Ma, H. Zhang and H. Fu, "Design of a Compact SISL BPF With SEMCP for 5G Sub-6 GHz Bands," in IEEE Microwave and Wireless Components Letters, vol. 30, 
-            no. 12, pp. 1121-1124, Dec. 2020, [doi: 10.1109/LMWC.2020.3030189.](https://ieeexplore.ieee.org/document/9240088)          
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -191,6 +198,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at UBC I spend a great time learning and working. I learn most of my crucial skills that will be useful in future life such as teamwork and working to tight deadlines. 
           I thoroughly  enjoy every second in UBC and learned how important it is to lead a healthy work life balance.
+  
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Badmiton
+      - Basketball
+      - Gaming
+      
 
 # Footer
 footer_show_references: true
