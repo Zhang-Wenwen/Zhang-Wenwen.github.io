@@ -118,7 +118,7 @@ content:
       - layout: top-middle
         title: Auto-calibration of multi-sensors
         link: http://humbl.bme.ubc.ca/
-        link_text: Human Motion Biomechanics Lab, The University of British Columbia
+        link_text: Human Motion Biomechanics Lab #, The University of British Columbia
         #quote: >
         #  Human Motion Biomechanics Lab
         description: | # this will include new lines to allow paragraphs
@@ -130,7 +130,7 @@ content:
       - layout: top-middle
         title: Weight Bank Addition Photonic Accelerator in Neuromorphic Networks	
         link: https://mina.ubc.ca/
-        link_text: Microsystems and Nanotechnology (MiNa) Lab, The University of British Columbia 
+        link_text: Microsystems and Nanotechnology (MiNa) Lab #, The University of British Columbia 
         #quote: >
         #  Human Motion Biomechanics Lab
         description: | # this will include new lines to allow paragraphs
@@ -140,7 +140,7 @@ content:
       - layout: top-middle
         title: Extended FSR Micro-Ring Modulator	
         link: https://mina.ubc.ca/
-        link_text: Microsystems and Nanotechnology (MiNa) Lab, The University of British Columbia 
+        link_text: Microsystems and Nanotechnology (MiNa) Lab #, The University of British Columbia 
         #quote: >
         #  Human Motion Biomechanics Lab
         description: | # this will include new lines to allow paragraphs
