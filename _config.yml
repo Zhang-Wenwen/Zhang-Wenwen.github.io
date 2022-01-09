@@ -62,9 +62,9 @@ content:
     content:
       - layout: top-middle
         title: Personalized Semi-supervised Federated Learning for Embedded Intelligence
-        link: https://feel.ece.ubc.ca/
+        #link: https://feel.ece.ubc.ca/
         quote: >
-          Flexible Electronics and Energy Lab in Electronic and Computer Engineering Department
+          [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/) in Electronic and Computer Engineering Department
         description: | # this will include new lines to allow paragraphs
           This project explores federated learning method considering large proportion of non-labeled data with significant data heterogeneity at different device end. 
           With the development of wearable sensors, people are able to collect enormous data volume from huge number of individuals. These data always come with huge
@@ -73,9 +73,9 @@ content:
         
       - layout: top-middle
         title: Smart Knee Sleeves Based on Flexible Sensors 	
-        link: https://texavie.com/
+        #link: https://texavie.com/
         quote: >
-          Texavie Technologies, Inc. & Flexible Electronics and Energy Lab
+          [Texavie Technologies, Inc.](https://texavie.com/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
           This project works on lower extremity estimation & movement tracking & muscle condition monitoring by data collected from flexible sensors (stress, temperature, ect.) 
           integrated on knee braces. The emergence of these wearable devices enable the possibility to monitor personal health status by daily activities. What's more, 
@@ -83,9 +83,9 @@ content:
 
       - layout: top-middle
         title: Wearable Sensor System for Gait Disorder Patients	
-        link: http://humbl.bme.ubc.ca/
+        #link: http://humbl.bme.ubc.ca/
         quote: >
-          Human Motion Biomechanics Lab & Flexible Electronics and Energy Lab
+          [Human Motion Biomechanics Lab](http://humbl.bme.ubc.ca/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
           This project develops real-time algorithms to predict gait parameters of patients with disorders (Parkinson, stroke & geriatric). People with impairment of injury or 
           senior age often suffer from gait disorders which may cause falls or other serious consequences during walk. To control such risks, gait parameters should be to utilized
@@ -93,12 +93,22 @@ content:
                     
       - layout: top-middle
         title: Intelligent Glove with Embedded Wearable Sensors	
-        link: https://feel.ece.ubc.ca/
+        #link: https://feel.ece.ubc.ca/
         quote: >
-          Texavie Technologies, Inc. & Flexible Electronics and Energy Lab
+          [Texavie Technologies, Inc.](https://texavie.com/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
           This project aims to reconstruct hand gesture of post-stroke patients to assess upper extremity function and help motivate recovery progress. It also has the promise
           to be developed as real-time model for VR & AR game in the future.
+          
+      - layout: top-middle
+        title: Real-World Biomechanical Measurements of Impacts in Humans
+        #link: https://feel.ece.ubc.ca/
+        quote: >
+          [Human Motion Biomechanics Lab](http://humbl.bme.ubc.ca/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
+        description: | # this will include new lines to allow paragraphs
+          Quantifying measurement errors in wearable inertial measurement unit devices caused by soft tissue movement artifacts is important in all data collection process.
+          Soft tissue movement artifacts always bring drift when measuring data from wearable sensors. And the drifts are the most frequent reason responsible for effectiveness
+          of developed algorithm. However, by analyzing the different between ground truth and affected, it's possible to get rid of these influence.
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
