@@ -79,9 +79,33 @@ content:
             
             W Zhang*, C Kuo and P Servati, A Wearable Sensor System for Measuring Pathological Gait Parameters. [2022 Biomedical Engineering Society Annual Meeting.](https://cdn.filestackcontent.com/f2R59mM1ThmOf4MB9Xry?A_Wearable_Sensor_System_for_Measuring_Pathological_Gait_Parameters%20.pdf) 
             
+            W Zhang*, Arvin Tashakori, Zenan Jiang, Amir Servati, Calvin Kuo, and Peyman Servati*, A Flexible Sensor System for Lower Body Locomotion Estimation. IEEE Transactions on Biomedical Engineering (In progress).
+            
+            W Zhang*, C Kuo and P Servati*, A Wearable Sensor System for Measuring Pathological Gait Parameters. IEEE Transactions on Biomedical Engineering (In progress).
+            
+            W. Zhang*, L. Chrostowski, N Jaeger and P. Servati*. Weight Bank Addition Photonic Accelerator for Artificial Intelligence. Optics Express (In progress)
+            
+            W. Zhang*, L. Chrostowski, N Jaeger and P. Servati*. Ring resonator sensor based on Vernier Effect. Optics Express (In progress)
+            
+            K Ma*, H Zhang, H Fu, W Zhang. 5G dual passband filter based on dielectric integrated suspension line. CN 201910528184.
+            
+            K Ma*, W Zhang, H Fu, H Zhang. Band-pass filter based on 5G double-frequency dielectric integrated suspension lines. CN 201910862414.
+            
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
+    
+      - layout: top-middle
+        title: Optics-free DNA Microscopy Imaging by Machine Learning
+        link: https://tilabberkeley.com/
+        link_text: Ti Lab in Electronic and Computer Engineering Department at University of California, Berkeley. 
+        #quote: >
+        #  "[Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)" in Electronic and Computer Engineering Department
+        description: | # this will include new lines to allow paragraphs
+          This project post process cell chemical reaction bio-information and locate molecule relative position through spectral maximum likelihood estimation 
+          via using machine learning. (In Progress)
+          
       - layout: top-middle
         title: Personalized Semi-supervised Federated Learning for Embedded Intelligence
         link: https://feel.ece.ubc.ca/
@@ -111,7 +135,7 @@ content:
       - layout: top-middle
         title: Wearable Sensor System for Gait Disorder Patients	
         link: http://humbl.bme.ubc.ca/
-        link_text: Human Motion Biomechanics Lab & Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/
+        link_text: Human Motion Biomechanics Lab & Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         #quote: >
         #  [Human Motion Biomechanics Lab](http://humbl.bme.ubc.ca/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
