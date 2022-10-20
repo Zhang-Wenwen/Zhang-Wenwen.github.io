@@ -142,16 +142,7 @@ content:
           This project develops real-time algorithms to predict gait parameters of patients with disorders (Parkinson, stroke & geriatric). People with impairment of injury or 
           senior age often suffer from gait disorders which may cause falls or other serious consequences during walk. To control such risks, gait parameters should be to utilized
           and tracked in daily activities to assess the severity of disease. 
-       
-      - layout: top-middle
-        title: DNA Microscopy Imaging through Optics-free Chemical Reaction
-        link: https://tilabberkeley.com/
-        link_text: Ti Lab at University of California, Berkeley
-        #quote: >
-        #  [Human Motion Biomechanics Lab](http://humbl.bme.ubc.ca/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
-        description: | # this will include new lines to allow paragraphs
-          This project post process cell chemical reaction bio-information and locate molecule relative position through spectral maximum likelihood estimation. 
-       
+     
       - layout: top-middle
         title: Intelligent Glove with Embedded Wearable Sensors	
         link: https://feel.ece.ubc.ca/
