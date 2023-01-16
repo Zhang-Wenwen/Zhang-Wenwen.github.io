@@ -65,11 +65,11 @@ content:
       - layout: top-middle
         #title: Texavie Technologies, Inc.
         description: | # this will include new lines to allow paragraphs
-            W. Zhang, K. Ma, H. Zhang and H. Fu, "Design of a Compact SISL BPF With SEMCP for 5G Sub-6 GHz Bands," in IEEE Microwave and Wireless Components Letters, vol. 30, 
+            W. Zhang*, K. Ma, H. Zhang and H. Fu, "Design of a Compact SISL BPF With SEMCP for 5G Sub-6 GHz Bands," in IEEE Microwave and Wireless Components Letters, vol. 30, 
             no. 12, pp. 1121-1124, Dec. 2020, [doi: 10.1109/LMWC.2020.3030189.](https://ieeexplore.ieee.org/document/9240088)          
             
-            A. Tashakori, W Zhang, Z. Wang, and P Servati, "SemiPFL: Personalized Semi-Supervised Federated Learning Framework for Embedded Intelligence," 
-            submitted to [IEEE Internet of Things Journal. ](https://arxiv.org/pdf/2203.08176.pdf)
+            A. Tashakori*, W Zhang, Z. Wang, and P Servati, "SemiPFL: Personalized Semi-Supervised Federated Learning Framework for Embedded Intelligence," 
+            [IEEE Internet of Things Journal.](https://ieeexplore.ieee.org/document/10012038)
             
             Zhang H, Ma K, Zhang W, et al. A Nover Self-packaged DBBPF with multiple TZs for 5G sub-6GHz applications. Microw Opt Technol Lett. 2022, 0895-2477, 
             [doi: 10.1002/mop.33455.](https://onlinelibrary.wiley.com/doi/full/10.1002/mop.33455)
