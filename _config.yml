@@ -65,6 +65,10 @@ content:
       - layout: top-middle
         #title: Texavie Technologies, Inc.
         description: | # this will include new lines to allow paragraphs
+            W. Zhang*, A Tashakori, Z Jiang, et al., Intelligent Knee Sleeves: A Real-time Multimodal Dataset for 3D Lower Body Motion Estimation Using Textile Sensors. (Under review by NeurIPS). 
+            
+            W. Zhang*, H, Zhang, Z, Jiang, et al., GaitMotion: A Multitask Dataset for Pathological Gait Forecasting. (Under review by NeurIPS).
+            
             W. Zhang*, K. Ma, H. Zhang and H. Fu, "Design of a Compact SISL BPF With SEMCP for 5G Sub-6 GHz Bands," in IEEE Microwave and Wireless Components Letters, vol. 30, 
             no. 12, pp. 1121-1124, Dec. 2020, [doi: 10.1109/LMWC.2020.3030189.](https://ieeexplore.ieee.org/document/9240088)          
             
