@@ -97,9 +97,8 @@ content:
         #  [Texavie Technologies, Inc.](https://texavie.com/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
           This project works on lower extremity estimation & movement tracking & muscle condition monitoring by data collected from flexible sensors (stress, temperature, ect.) 
-          integrated on knee braces. The emergence of these wearable devices enable the possibility to monitor personal health status by daily activities. What's more, 
-          this kind of flexible sensors free people from lab environment with more comprehensive feedback on healthy detection and achieve significant cost savings.
-          # images/squat.gif
+          integrated on knee braces. The emergence of these wearable devices enables the possibility to monitor personal health status by daily activities. What's more, 
+          These kinds of flexible sensors free people from the lab environment with more comprehensive feedback on healthy detection and achieve significant cost savings.
 
       - layout: top-middle
         title: Personalized Semi-supervised Federated Learning for Embedded Intelligence
@@ -108,10 +107,10 @@ content:
         #quote: >
         #  "[Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)" in Electronic and Computer Engineering Department
         description: | # this will include new lines to allow paragraphs
-          This project explores federated learning method considering large proportion of non-labeled data with significant data heterogeneity at different device end. 
-          With the development of wearable sensors, people are able to collect enormous data volume from huge number of individuals. These data always come with huge
+          This project explores the federated learning method considering a large proportion of non-labeled data with significant data heterogeneity at different device end. 
+          With the development of wearable sensors, people are able to collect enormous data volume from a huge number of individuals. These data always come with huge
           diversity and complexity due to differences in personal habits. And it also takes expensive energy and high cost to label these data. To address these concerns, 
-          federated learning is proposed to deal with the unlabeled data and data heterogeneity.
+          federated learning is proposed to deal with unlabeled data and data heterogeneity.
         
 
       - layout: top-middle
@@ -121,9 +120,9 @@ content:
         #quote: >
         #  [Human Motion Biomechanics Lab](http://humbl.bme.ubc.ca/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
-          This project develops real-time algorithms to predict gait parameters of patients with disorders (Parkinson, stroke & geriatric). People with impairment of injury or 
+          This project develops real-time algorithms to predict the gait parameters of patients with disorders (Parkinson's, stroke & geriatric). People with impairment of injury or 
           senior age often suffer from gait disorders which may cause falls or other serious consequences during walk. To control such risks, gait parameters should be to utilized
-          and tracked in daily activities to assess the severity of disease. 
+          and tracked in daily activities to assess the severity of the disease. 
      
       - layout: top-middle
         title: Intelligent Glove with Embedded Wearable Sensors	
@@ -132,8 +131,8 @@ content:
         #quote: >
         #  [Texavie Technologies, Inc.](https://texavie.com/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
-          This project aims to reconstruct hand gesture of post-stroke patients to assess upper extremity function and help motivate recovery progress. It also has the promise
-          to be developed as real-time model for VR & AR game in the future.
+          This project aims to reconstruct hand gestures of post-stroke patients to assess upper extremity function and help motivate recovery progress. It also has the promise
+          to be developed as a real-time model for VR & AR games in the future.
           
       - layout: top-middle
         title: Real-World Biomechanical Measurements of Impacts in Humans
@@ -142,9 +141,9 @@ content:
         #quote: >
         #  [Human Motion Biomechanics Lab](http://humbl.bme.ubc.ca/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
-          Quantifying measurement errors in wearable inertial measurement unit devices caused by soft tissue movement artifacts is important in all data collection process.
-          Soft tissue movement artifacts always bring drift when measuring data from wearable sensors. And the drifts are the most frequent reason responsible for effectiveness
-          of developed algorithm. However, by analyzing the different between ground truth and affected, it's possible to get rid of these influence.
+          Quantifying measurement errors in wearable inertial measurement unit devices caused by soft tissue movement artifacts is important in all data collection processes.
+          Soft tissue movement artifacts always bring drift when measuring data from wearable sensors. The drifts are the most frequent reason responsible for the effectiveness
+          of the developed algorithm. However, by analyzing the difference between ground truth and affected, it's possible to get rid of these influences.
           
       - layout: top-middle
         title: Auto-calibration of multi-sensors
@@ -154,8 +153,8 @@ content:
         #  Human Motion Biomechanics Lab
         description: | # this will include new lines to allow paragraphs
           This project automatically  calibrates relative sensor locations and orientation movement during slow motions. Calibration is indispensable in wearable sensor systems
-          where multiple sensors are utilized. Sensors should be calibrated and notified each other's location to cooperate in later motion detection activities. Current calibration
-          system require strict standard and training to achieve purpose. To help with home-monitor goals, a calibration system working effectively during slow motion like walking
+          where multiple sensors are utilized. Sensors should be calibrated and notified of each other's location to cooperate in later motion detection activities. Current calibration
+          systems require strict standards and training to achieve their purpose. To help with home-monitor goals, a calibration system working effectively during slow motion like walking
           is necessary. 
           
       - layout: top-middle
@@ -165,7 +164,7 @@ content:
         #quote: >
         #  Human Motion Biomechanics Lab
         description: | # this will include new lines to allow paragraphs
-          This project focus on designing and implementing cascaded micro-ring weight bank which reports the observations of weight addition and subtraction in 
+          This project focuses on designing and implementing a cascaded micro-ring weight bank which reports the observations of weight addition and subtraction in 
           neuromorphic networks based on silicon on insulators (SOI).           
           
       - layout: top-middle
@@ -175,8 +174,8 @@ content:
         #quote: >
         #  Human Motion Biomechanics Lab
         description: | # this will include new lines to allow paragraphs
-          This project focus on designing and implementing parallel and cascaded ring resonators exhibiting Vernier effect and extended free spectral range (FSR). 
-          Extended FSR is helpful for clean and wide band comparable to C-band which support maximum number of channels.          
+          This project focuses on designing and implementing parallel and cascaded ring resonators exhibiting the Vernier effect and extended free spectral range (FSR). 
+          Extended FSR is helpful for a clean and wide band comparable to the C-band which supports the maximum number of channels.          
           
       - layout: top-middle
         title: Dual-band Microwave Filters for 5G	
@@ -200,7 +199,7 @@ content:
           Texavie works on intelligent apparel for digital health and wellness
         description: | # this will include new lines to allow paragraphs
             I participated in hardware/firmware programming & testing and data processing in Texavie, mostly working with C/C++/python/MATLAB code here. Texavie cooperates with
-            Flexible Electronics and Energy Lab as well. It's an amazing company where Industry-University-Academy cooperation teaching mode combines perfectly. 
+            Flexible Electronics and Energy Lab as well. It's an amazing company where the Industry-University-Academy cooperation teaching mode combines perfectly. 
          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -212,14 +211,14 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at UBC I spend a great time learning and working. I learn most of my crucial skills that will be useful in future life such as teamwork and working to tight deadlines. 
-          I thoroughly  enjoy every second in UBC and learned how important it is to lead a healthy work life balance.
+          During my time at UBC, I spent a great time learning and working. I learn most of my crucial skills that will be useful in future life such as teamwork and working to tight deadlines. 
+          I thoroughly  enjoy every second in UBC and learned how important it is to lead a healthy work-life balance.
   
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Badmiton
+      - Badminton
       - Basketball
       - Gaming
       
