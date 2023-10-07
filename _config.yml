@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   I have worked with a range of different languages (python, MATLAB, C, C++), tried different fields in Electrical Engineering field (microwave components, image process, machie learning), 
   and I am always looking forward to opportunities to work with something new.
   
-  If you are interested, please check [my Resumé](https://wenwenzhang.netlify.app/uploads/CV_wenwenZhang_v1.pdf) and [a short intro](https://wenwenzhang.netlify.app/uploads/Introduction_WenwenZhang.pdf) here.
+  # If you are interested, please check [my Resumé](https://wenwenzhang.netlify.app/uploads/CV_wenwenZhang_v1.pdf) and [a short intro](https://wenwenzhang.netlify.app/uploads/Introduction_WenwenZhang.pdf) here.
 
 content:
   - title: Publication and Conferences # Title for the section
@@ -65,14 +65,13 @@ content:
       - layout: top-middle
         #title: Texavie Technologies, Inc.
         description: | # this will include new lines to allow paragraphs
-            W. Zhang*, A Tashakori, Z Jiang, et al., Intelligent Knee Sleeves: A Real-time Multimodal Dataset for 3D Lower Body Motion Estimation Using Textile Sensors. (Under review by NeurIPS). 
-            
-            W. Zhang*, H, Zhang, Z, Jiang, et al., GaitMotion: A Multitask Dataset for Pathological Gait Forecasting. (Under review by NeurIPS).
+
+            W. Zhang*, A. Tashakori,  Z. Jiang, et al. Intelligent Knee Sleeves: A Real-time Multimodal Dataset for 3D Lower Body Motion Estimation Using Smart Textile. Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track.
             
             W. Zhang*, K. Ma, H. Zhang and H. Fu, "Design of a Compact SISL BPF With SEMCP for 5G Sub-6 GHz Bands," in IEEE Microwave and Wireless Components Letters, vol. 30, 
             no. 12, pp. 1121-1124, Dec. 2020, [doi: 10.1109/LMWC.2020.3030189.](https://ieeexplore.ieee.org/document/9240088)          
             
-            A. Tashakori*, W Zhang, Z. Wang, and P Servati, "SemiPFL: Personalized Semi-Supervised Federated Learning Framework for Embedded Intelligence," 
+            A. Tashakori*, W. Zhang, Z. Wang, and P Servati, "SemiPFL: Personalized Semi-Supervised Federated Learning Framework for Embedded Intelligence," 
             [IEEE Internet of Things Journal.](https://ieeexplore.ieee.org/document/10012038)
             
             Zhang H, Ma K, Zhang W, et al. A Nover Self-packaged DBBPF with multiple TZs for 5G sub-6GHz applications. Microw Opt Technol Lett. 2022, 0895-2477, 
