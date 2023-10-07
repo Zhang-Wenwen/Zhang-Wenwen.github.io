@@ -87,24 +87,24 @@ content:
     
 
       - layout: top-middle
-        title: Smart Knee Sleeves Based on Flexible Sensors 	
-        link: https://texavie.com/
-        link_text: Texavie Technologies, Inc.
-        additional_links:
-          - link: https://github.com/Zhang-Wenwen/IntelligentKneeSleeves   
-            link_text: Flexible Electronics and Energy Lab 
+        title: Endorse Vision to Textile: 3D Human Pose Generation from Tactile Knee Sleeves
+        link: https://github.com/Zhang-Wenwen/IntelligentKneeSleeves   
+        link_text: Github for human traction
+        # additional_links:
+        #   - link: https://github.com/Zhang-Wenwen/IntelligentKneeSleeves   
+        #     link_text: Git
         #quote: >
         #  [Texavie Technologies, Inc.](https://texavie.com/) & [Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)
         description: | # this will include new lines to allow paragraphs
           This project works on lower extremity estimation & movement tracking & muscle condition monitoring by data collected from flexible sensors (stress, temperature, ect.) 
           integrated on knee braces. The emergence of these wearable devices enable the possibility to monitor personal health status by daily activities. What's more, 
           this kind of flexible sensors free people from lab environment with more comprehensive feedback on healthy detection and achieve significant cost savings.
-          images/squat.gif
+          # images/squat.gif
 
       - layout: top-middle
         title: Personalized Semi-supervised Federated Learning for Embedded Intelligence
-        link: https://feel.ece.ubc.ca/
-        link_text: flexible Electronics and Energy Lab in Electronic and Computer Engineering Department
+        link: https://browse.arxiv.org/pdf/2203.08176.pdf
+        link_text: IEEE Internet of Things 
         #quote: >
         #  "[Flexible Electronics and Energy Lab](https://feel.ece.ubc.ca/)" in Electronic and Computer Engineering Department
         description: | # this will include new lines to allow paragraphs
