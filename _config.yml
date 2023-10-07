@@ -87,7 +87,7 @@ content:
     
 
       - layout: top-middle
-        title: Endorse Vision to Textile: 3D Human Pose Generation from Tactile Knee Sleeves
+        title: Endorse Vision to Textile - 3D Human Pose Generation from Tactile Knee Sleeves
         link: https://github.com/Zhang-Wenwen/IntelligentKneeSleeves   
         link_text: Github for human traction
         # additional_links:
