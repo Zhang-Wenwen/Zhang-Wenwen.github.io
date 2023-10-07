@@ -7,7 +7,6 @@ version: 2
 
 # Personal info
 name: Wenwen Zhang
-title: Visting Graduate Student at University of California, Berkeley
 email: Wenwenzhang@ece.ubc.ca
 website: https://zhang-wenwen.github.io/
 
@@ -48,13 +47,9 @@ linkedin_username: wenw-zhang
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Wenwen Zhang, I'm a MASc student at the University of British Columbia, Canada. I am now a visting graduate student in University of California, Berkeley (UCB).
-  I work as a research assistant in Flexible Electronics and Energy Lab (FEEL) in UBC and Ti lab in UCB.
-  My research focuses on wearable devices and federated learning method considering large proportion of no-label data with huge data heterogeneity at different device end.
-  I am very optimistic about the future of wearable devices. I believe the interdisciplinary field which connects the popular machine learning and end devices will be promising. 
-  I am also working on DNA bio-information post processing, trying to bring artificial intelligence to the field of biotechnology. 
-  I have worked with a range of different languages (python, MATLAB, C, C++), tried different fields in Electrical Engineering field (microwave components, image process, machie learning), 
-  and I am always looking forward to opportunities to work with something new.
+  Hi, my name is Wenwen Zhang, I'm a MASc student at the University of British Columbia, Canada. I am now a visiting graduate student at the University of California, San Francisco(UCSF).
+  I work as a research assistant in the Flexible Electronics and Energy Lab (FEEL) at UBC.
+  My research focuses on AI-assistive wearable electronics, federated learning, human-environment interaction, and AI4Health.
   
 # If you are interested, please check [my Resumé](https://wenwenzhang.netlify.app/uploads/CV_wenwenZhang_v1.pdf) and [a short intro](https://wenwenzhang.netlify.app/uploads/Introduction_WenwenZhang.pdf) here.
 
@@ -85,15 +80,7 @@ content:
             W Zhang*, Arvin Tashakori, Zenan Jiang, Amir Servati, Calvin Kuo, and Peyman Servati*, A Flexible Sensor System for Lower Body Locomotion Estimation. IEEE Transactions on Biomedical Engineering (In progress).
             
             W Zhang*, C Kuo and P Servati*, A Wearable Sensor System for Measuring Pathological Gait Parameters. IEEE Transactions on Biomedical Engineering (In progress).
-            
-            W. Zhang*, L. Chrostowski, N Jaeger and P. Servati*. Weight Bank Addition Photonic Accelerator for Artificial Intelligence. Optics Express (In progress)
-            
-            W. Zhang*, L. Chrostowski, N Jaeger and P. Servati*. Ring resonator sensor based on Vernier Effect. Optics Express (In progress)
-            
-            K Ma*, H Zhang, H Fu, W Zhang. 5G dual passband filter based on dielectric integrated suspension line. CN 201910528184.
-            
-            K Ma*, W Zhang, H Fu, H Zhang. Band-pass filter based on 5G double-frequency dielectric integrated suspension lines. CN 201910862414.
-            
+        
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
