@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   I have worked with a range of different languages (python, MATLAB, C, C++), tried different fields in Electrical Engineering field (microwave components, image process, machie learning), 
   and I am always looking forward to opportunities to work with something new.
   
-  # If you are interested, please check [my Resumé](https://wenwenzhang.netlify.app/uploads/CV_wenwenZhang_v1.pdf) and [a short intro](https://wenwenzhang.netlify.app/uploads/Introduction_WenwenZhang.pdf) here.
+# If you are interested, please check [my Resumé](https://wenwenzhang.netlify.app/uploads/CV_wenwenZhang_v1.pdf) and [a short intro](https://wenwenzhang.netlify.app/uploads/Introduction_WenwenZhang.pdf) here.
 
 content:
   - title: Publication and Conferences # Title for the section
